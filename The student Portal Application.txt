@@ -1,0 +1,1 @@
+The student Portal Application is a web-based platform designed to help students manage their academic activities in one place . A student portal typically requires students to register using a mobile & email address, verify their identity with an OTP , and set a password.
