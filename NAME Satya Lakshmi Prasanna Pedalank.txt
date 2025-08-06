@@ -1,0 +1,3 @@
+NAME:Satya Lakshmi Prasanna Pedalanka
+COURSE: BSC Computers
+LEARNING ABOUT GITHUB: Git Hub is a platform where people can store,share and work together on code. 
